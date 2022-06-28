@@ -10,6 +10,6 @@ Setup:
 - clonar el repo desde VSC (inicialitza el repo i fixa el remote)
 
 Workflow:
-
+- sincronitzar canvis (pull o sync al VSC)
 - commits a mesura que treballem (canvis significatius)
 - sincronitzar canvis (push o sync al VSC)
