@@ -14,4 +14,5 @@ Setup:
 Workflow:
 - sincronitzar canvis (pull o sync al VSC)
 - commits a mesura que treballem (canvis significatius)
+- rinse and repeat
 - sincronitzar canvis (push o sync al VSC)
